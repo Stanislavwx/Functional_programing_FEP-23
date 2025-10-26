@@ -1,0 +1,27 @@
+[project]
+name = "lab2-hof-pipeline"
+version = "0.1.0"
+requires-python = ">=3.10"
+description = "ЛР2: функції вищого порядку, композиція, map/filter/reduce"
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.10"
+warn_unused_configs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+disallow_untyped_defs = true
+no_implicit_optional = true
+check_untyped_defs = true
+pretty = true
+strict_optional = true

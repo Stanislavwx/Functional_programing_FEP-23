@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "  alice  ",
+    "age": 17,
+    "city": "Kyiv",
+    "purchases": [
+      10.0,
+      5.0
+    ]
+  },
+  {
+    "id": 2,
+    "name": "bob",
+    "age": 22,
+    "city": "Delhi",
+    "purchases": [
+      12.5,
+      7.5,
+      20.0
+    ]
+  },
+  {
+    "id": 3,
+    "name": "carol",
+    "age": 33,
+    "city": "Prague",
+    "purchases": [
+      0.0,
+      0.0,
+      50.0
+    ]
+  },
+  {
+    "id": 4,
+    "name": "dave",
+    "age": 21,
+    "city": "Delhi",
+    "purchases": [
+      5.0
+    ]
+  },
+  {
+    "id": 5,
+    "name": "erin",
+    "age": 18,
+    "city": "Delhi",
+    "purchases": []
+  },
+  {
+    "id": 6,
+    "name": "frank",
+    "age": 45,
+    "city": "Lviv",
+    "purchases": [
+      15,
+      15,
+      15
+    ]
+  },
+  {
+    "id": 7,
+    "name": "grace",
+    "age": 19,
+    "city": "Delhi",
+    "purchases": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]
