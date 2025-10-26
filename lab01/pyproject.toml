@@ -1,0 +1,15 @@
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = []
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+known-first-party = ["core"]
+
+# У тестах дозволяємо лямбди і старі typing-и, бо це академічні фікстури
+[tool.ruff.lint.per-file-ignores]
+"tests/**.py" = ["E731", "UP006", "UP035"]
