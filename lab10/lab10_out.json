@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alice",
+    "age": 19,
+    "email": "alice@example.com",
+    "segment": "adult"
+  },
+  {
+    "name": "Carol",
+    "age": 21,
+    "email": "c@ex.io",
+    "segment": "adult"
+  },
+  {
+    "name": "Denis",
+    "age": 20,
+    "email": "denis@example.gr",
+    "segment": "adult"
+  }
+]

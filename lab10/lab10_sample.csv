@@ -1,0 +1,6 @@
+name,age,country,email
+  aLiCe  ,19, ua ,Alice@EXAMPLE.com
+Bob,17, IN,bad_at
+Carol,21,IT,c@ex.io
+Denis,20,GR,denis@example.gr
+, ,UA,empty@example.com
